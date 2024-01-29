@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PoPodada)](https://github.com/PoPodada/github-profile-trophy)
+# My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,github,vscode" /> <br /><br />
