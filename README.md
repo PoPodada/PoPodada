@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 | 作品名 | 概要 | 使用技術 |
 |--------|--------|--------|
-| [IchidaisaiHP](https://github.com/ichidaisai/2023.ichidaisai.com) | チーム開発<br/>HP | HTML・CSS・Javascript |
+| [IchidaisaiHP](2023.ichidaisai.com) | チーム開発<br/>HP | HTML・CSS・Javascript |
 | [ReactTodoApp](https://github.com/PoPodada/ReactTodoApp) | 個人開発<br/>TODOアプリ | Javascript・React  |
 |[tsumajiroFAQ](https://github.com/PoPodada/tsumaziro-ichipiro)|チーム開発<br/>ツマジロハッカソン|Typescript・React|
