@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 |--------|--------|--------|
 |[調整くん](https://progate-hakkason-b8f2c.web.app/)|チーム開発<br/>関西ビギナーズハッカソン|Typescript・React・Tailwind・GCP・Firebase auth,store,hosting|
 |[Tacos](https://github.com/2404-geekcamp/main)|チーム開発<br/>2024/5/5 技育ハッカソン|Javascript・React・Tailwind・express・supabase|
-|[みゅっけた](https://github.com/PoPodada/BeginnersHackathon2024_Spring)|チーム開発<br/>関西ビギナーズハッカソン|Javascript・React・Tailwind・SpotifyAPI|
+|[みゅっけた](https://github.com/PoPodada/BeginnersHackathon2024_Spring)|チーム開発<br/>関西ビギナーズハッカソン<br/>Progate賞受賞|Javascript・React・Tailwind・SpotifyAPI|
 |[tsumajiroFAQ](https://github.com/PoPodada/tsumaziro-ichipiro)|チーム開発<br/>ツマジロハッカソン|Typescript・React|
 | [IchidaisaiHP](2023.ichidaisai.com) | チーム開発<br/>HP | HTML・CSS・Javascript |
 
