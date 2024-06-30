@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=PoPodada)](https://github.com/ryo-ma/github-profile-trophy)
 # My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,vite,vscode,firebase,github,githubactions,md,notion" /> <br /><br />
