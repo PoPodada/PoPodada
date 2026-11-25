@@ -3,7 +3,7 @@
 🛠  I occasionally participate in hackathons.
 
 ## 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,nodejs,react,nextjs,tailwind,vite,firebase,vercel,git,github,githubactions,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,nodejs,react,nextjs,tailwind,vite,git,github,githubactions" />
 
 
 
